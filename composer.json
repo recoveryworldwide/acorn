@@ -1,7 +1,7 @@
 {
-  "name": "roots/acorn",
+  "name": "recoveryworldwide/acorn",
   "license": "MIT",
-  "description": "Lazy-loaded framework for Roots WordPress projects.",
+  "description": "Fork of roots acorn to resolve dependency issue in the short-term.",
   "homepage": "https://roots.io/acorn/",
   "authors": [
     {
